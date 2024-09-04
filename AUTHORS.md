@@ -1,9 +1,9 @@
 # Authors
 
-The MDAnalysisWorkshop-UCL24 repository was created by Micaela Matta in 2024.
+The MDAnalysisWorkshop-Intermediate1Day repository was created by Micaela Matta in 2024.
 
 All contributing authors are listed in this file below.
-The repository history at https://github.com/MDAnalysis/MDAnalysisWorkshop2023
+The repository history at https://github.com/MDAnalysis/MDAnalysisWorkshop-Intermediate1Day
 and the CHANGELOG show individual code contributions.
 
 ## Chronological list of authors
