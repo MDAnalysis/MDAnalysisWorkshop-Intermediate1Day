@@ -11,7 +11,7 @@ dependencies:
   - jupyter_contrib_nbextensions
   - importlib-metadata
   - rdkit
-  # For prsentations
+  # For presentations
   - rise
   # testing
   - pytest
