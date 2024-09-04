@@ -14,6 +14,7 @@ Materials for the Sep 5, 2024 MDAnalysis hybrid workshop at the University of Sh
 
 Lecture Theatre D
 Hicks Building, Department of Physics and Astronomy
+
 University of Sheffield, S3 7RH
 United Kingdom
 
